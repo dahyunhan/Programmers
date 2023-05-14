@@ -1,4 +1,5 @@
 package Java;
+//약수의 합
 
 public class Lv1_12928 {
     public int solution(int n) {
