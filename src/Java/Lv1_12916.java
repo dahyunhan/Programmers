@@ -1,4 +1,5 @@
 package Java;
+//문자열 내 p와 y의 개수
 
 public class Lv1_12916 {
     boolean solution(String s) {
